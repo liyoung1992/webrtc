@@ -1,0 +1,17 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/luci/swarming/windows-amd64",
+  "version_file": ".versions/swarming.exe.cipd_version",
+  "files": [
+    {
+      "name": "swarming.exe",
+      "size": 22868480,
+      "hash": "WgvOwdKfsrr2Lt-8hF_dmXC2OtHcIhFTffkB9kqbdCgC"
+    },
+    {
+      "name": ".versions/swarming.exe.cipd_version",
+      "size": 128,
+      "hash": "S4jCyNEgGDHGV064mgHPpR5gFQFovMCYcEFvemGY1hoC"
+    }
+  ]
+}
